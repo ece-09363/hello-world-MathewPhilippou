@@ -6,6 +6,8 @@
 1. Post a selfie
 ![alt text][selfie]
 
-[selfie]: IMG_20180129_125611.jpg
+[selfie]: me.JPG
 
 2. Tell me something interesting about yourself
+     
+     I once layed on top of a tiger.
